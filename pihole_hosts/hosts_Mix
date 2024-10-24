@@ -1,11 +1,25 @@
+# --- Yahoo
 0.0.0.0 ads.yahoo.com
 0.0.0.0 analytics.yahoo.com
 0.0.0.0 geo.yahoo.com
+0.0.0.0 udc.yahoo.com
+0.0.0.0 udcm.yahoo.com
 0.0.0.0 analytics.query.yahoo.com
 0.0.0.0 partnerads.ysm.yahoo.com
+0.0.0.0 log.fc.yahoo.com
 0.0.0.0 gemini.yahoo.com
+0.0.0.0 adtech.yahooinc.com
+
+# --- Yandex
+0.0.0.0 extmaps-api.yandex.net
+0.0.0.0 appmetrica.yandex.ru
+0.0.0.0 adfstat.yandex.ru
+0.0.0.0 metrika.yandex.ru
+0.0.0.0 offerwall.yandex.net
 0.0.0.0 adfox.yandex.ru
-0.0.0.0 config.unityads.unity3d.com
+
+# --- Unity
 0.0.0.0 auction.unityads.unity3d.com
 0.0.0.0 webview.unityads.unity3d.com
+0.0.0.0 config.unityads.unity3d.com
 0.0.0.0 adserver.unityads.unity3d.com
